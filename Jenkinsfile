@@ -53,7 +53,7 @@ pipeline {
                 bat '''
                 set PATH=%MAVEN_PATH%;%PATH%
                 mvn sonar:sonar ^
-                  -Dsonar.projectKey=t2 ^
+                  -Dsonar.projectKey=xnl ^
                   -Dsonar.sources=src/main/java ^
                   -Dsonar.tests=src/test/java ^
                   -Dsonar.java.binaries=target/classes ^
