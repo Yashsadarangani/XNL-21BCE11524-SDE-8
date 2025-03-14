@@ -73,3 +73,5 @@ Post-Build Actions
 If the pipeline succeeds, a success message is displayed.
 
 If the pipeline fails, check the logs for errors.
+
+https://github.com/Yashsadarangani/XNL-21BCE11524-SDE-8/blob/main/Screenshot%202025-03-15%20023657.jpg
