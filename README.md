@@ -1,4 +1,4 @@
-XNL Jenkins Pipeline
+Jenkins Pipeline
 
 This repository contains a Jenkins pipeline configuration (Jenkinsfile) for a Java Maven project, integrating SonarQube for code analysis, JaCoCo for code coverage, and duplication analysis.
 
